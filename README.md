@@ -1,1 +1,1 @@
-# DictionaryProject
+mvn clean javafx:run
